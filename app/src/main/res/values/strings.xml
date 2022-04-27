@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grocery</string>
+    <string name="facebook_app_id">308289141455365</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">996f6c5672411579dc3a1c4fe13c59fe</string>
+
+
+</resources>
